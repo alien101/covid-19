@@ -1,0 +1,27 @@
+HKID: 1231
+Patient name: M P
+Gender: M
+DOB: 1231
+Mobile #: 1213
+Address: 12PC
+
+
+
+HKID: 2345
+Patient name: P P
+Gender: K
+DOB: 2345
+Mobile #: 1234
+Address: JHC
+
+
+
+HKID: a1209334
+Patient name: nerissa lien
+Gender: F
+DOB: 129874
+Mobile #: 1029384
+Address: ajnocieo
+
+
+
